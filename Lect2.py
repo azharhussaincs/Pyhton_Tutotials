@@ -4,5 +4,3 @@
 """
 print("Lecture2 About Syntax")
 #cout(this is lecture 2)
-var =10
-print(var)
