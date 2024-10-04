@@ -1,0 +1,8 @@
+age =20
+Age =44
+print(age)
+print(Age)
+studentName="AzharBaloch"
+studen_name="Azhar Hussain"
+x,y,z=1,3,6
+print(x)
